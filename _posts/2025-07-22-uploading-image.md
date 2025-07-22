@@ -9,7 +9,7 @@ comments: true
 
 Below is just about uploading the image
 ---
-Let's work !
+Let's work on it!
 
 
 ## Practice
@@ -18,7 +18,7 @@ Let's work !
 
 This is how to upload the image from the internet!
 
-![test_kitten](https://github.com/phcongg/paper-jekyll-theme/blob/169b7977944a6624f57f1b1b71f6ede581d4521e/assets/images/meo-cute-8.jpg)
+![test_kitten](https://github.com/phcongg/paper-jekyll-theme/blob/master/assets/images/meo-cute-8.jpg)
 
 This is how to upload from your assets (your local image)
 
